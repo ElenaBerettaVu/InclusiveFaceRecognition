@@ -36,7 +36,7 @@ We welcome contributions from researchers, technologists, artists, and advocates
 * Technical Contributions: Assist with web development or data analysis.
 * Artistic Contributions: Submit artworks or creative projects.
 * Community Engagement: Participate in discussions and provide feedback.
-Please read our CODE_OF_CONDUCT.md for details on our code of conduct and the process for submitting pull requests.
+Please read our [CODE_OF_CONDUCT.md](https://github.com/ElenaBerettaVu/InclusiveFaceRecognition/blob/main/CODE_OF_CONDUCT.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## Resources
 * [Project Roadmap](https://docs.google.com/document/d/1034wyEwAWNkMSvpzzRGNbRvFUmiIOR8T2_3xHO-ZCqY/edit#heading=h.apipu75kx78r)
