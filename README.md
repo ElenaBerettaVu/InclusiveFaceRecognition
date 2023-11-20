@@ -43,4 +43,4 @@ Please read our CODE_OF_CONDUCT.md for details on our code of conduct and the pr
 * [Open Canvas](https://docs.google.com/presentation/d/1YUQUPi3Bu3aieIHVLlL_EVnD0vVQmskTXji4e5-Xg4c/edit#slide=id.p)
 
 ## License
-This project is licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) - see the LICENSE.md file for details.
+This project is licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) - see the [LICENSE.md](https://github.com/ElenaBerettaVu/InclusiveFaceRecognition/blob/main/LICENSE.md) file for details.
